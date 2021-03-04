@@ -22,7 +22,7 @@ strings:
     $string4 = "t_handle" ascii
     $string5 = "www.sdvro.net"
 
-/*  Strings 1 -> 4 obtained by useing AutoYara.jar tool https://github.com/NeuromorphicComputationResearchProgram/AutoYara
+/*  Strings 1 -> 4 obtained by using AutoYara.jar tool https://github.com/NeuromorphicComputationResearchProgram/AutoYara
     String5 from the unix "strings" command against hash4.
 */
 condition:
